@@ -1,3 +1,3 @@
 def sampleA(a, b)
-  puts a + b
+  puts b + a
 end
